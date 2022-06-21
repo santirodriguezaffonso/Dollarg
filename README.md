@@ -13,12 +13,13 @@ So to express these values, I will use an API from the User [Castrogiovanni20](h
 
 ## Code Highlights
 
-- SwiftUI framework
-- Reusable views
 - Grids
-- Identifiable protocol
+- Combine
 - API REST
 - UserDefaults
+- Reusable views
+- SwiftUI framework
+- Identifiable protocol
 
 >Check my other training applications! [myportfolio](https://santiagorodriguezaffonso.notion.site/App-Portfolio-ea7f8e9bdac84c2c81541781a1e92668)
 
