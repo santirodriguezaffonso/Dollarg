@@ -5,7 +5,7 @@
 ![Platform](https://img.shields.io/badge/plataform-iOS-white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-santiagorodriguezaffonso-blue)](https://www.linkedin.com/in/santiagorodriguezaffonso/)
 
-This is an App ***in progress**** that aims to show the dollar's value in Argentina. Because in this country happens something strange and this is you have a few different prices for a single dollar.
+Dollarg is a personal project ***in progress****. This app aims to show the dollar's value in Argentina. Because in this country happens something strange and this is you have a few different prices for a single dollar.
 
 So to express these values, I will use an API from the User [Castrogiovanni20](https://github.com/Castrogiovanni20/api-dolar-argentina) that retrieves the different dollars in Argentina.
 
